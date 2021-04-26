@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B23E98A0-9140-3826-E787-7CDE78E4898C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerMove.cs">
+    <Files>
+      <File FileName="Assets/Script/Test.cs" Line="24" Column="114" />
+      <File FileName="Assets/Script/PlayerMove.cs" Line="19" Column="33" />
+      <File FileName="Assets/Photon/PhotonUnityNetworking/Code/PhotonNetworkPart.cs" Line="1285" Column="63" />
+      <File FileName="Assets/Photon/PhotonUnityNetworking/Code/PhotonView.cs" Line="676" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhotonTest1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="36aefa48-b258-44d1-bfbe-2169be1a8971" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
